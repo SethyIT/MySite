@@ -1,0 +1,12 @@
+body{
+    background-color: #ff0;
+}
+p{
+    background-color: #ccc;
+}
+p:first-child{
+    width: 100px;
+    padding: 100px 50px 100px 50px; !important
+    border: 10px solid #fe4242
+
+}
