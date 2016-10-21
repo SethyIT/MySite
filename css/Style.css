@@ -4,6 +4,12 @@ body{
 p{
     background-color: #ccc;
 }
+section{
+    border: 10px solid #7be95c;
+    padding-right:100px;
+    padding-left: 100px
+
+}
 p:first-child{
     width: 100px;
     padding: 100px 50px 100px 50px; !important
